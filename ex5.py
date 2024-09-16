@@ -17,10 +17,10 @@ for medaille in code_medals:
             S+=1
 
 if erreur==1:
-    print("Ceci est une chaîne invalide")
+    print("Ceci est une chaine invalide.")
 else:
     print(str(country)+":")
-    print(F"- {G} OR")
+    print(F"- {G} Or")
     print(F"- {B} Argent")
     print(F"- {S} Bronze")
 
